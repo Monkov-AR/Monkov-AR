@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MonkovAR&theme=dark)](https://github.com/KnlnKS/leetcode-stats
+
+<!-- LEETCODE STATISTICS-->
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MonkovAR&theme=dark)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
